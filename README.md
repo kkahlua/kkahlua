@@ -2,15 +2,13 @@
 
 <a  href="https://github.com/kkahlua"><img  align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkahlua&theme=dracula&layout=compact&langs_count=10"  /></a>
 
-### SeoungWoon Choi
+### 안녕하세요 프론트엔드 개발자 최성운입니다.
 
 <a  href="https://hits.seeyoufarm.com"><img  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkahlua&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 
 How to reach me csw93083@naver.com | csw93083@chungbuk.ac.kr
 
 ---
-
-#### 안녕하세요 프론트엔드 개발자 최성운입니다.
 
 ● 강 주변 위험사고 검출을 위한 지능형 CCTV기술 : https://github.com/k-CCTV  
 ● 특색 있는 익명성을 보장하는 sns 웹사이트 : https://github.com/CBNU-2022-Winter-1Team
