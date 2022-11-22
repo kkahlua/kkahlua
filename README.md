@@ -10,7 +10,7 @@
 
 #### 안녕하세요 프론트엔드 개발자 최성운입니다.
 
-How to reach me csw93083@chungbuk.ac.kr
+How to reach me csw93083@naver.com | csw93083@chungbuk.ac.kr
 
  </div>
  
@@ -21,8 +21,6 @@ How to reach me csw93083@chungbuk.ac.kr
   
   ### Programming languages
   [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />]() &nbsp;&nbsp;
-  [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>]() &nbsp;&nbsp;
-  [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />]() &nbsp;&nbsp;
 
 <!--   [<img src="" />]() &nbsp;&nbsp; -->
 
@@ -32,19 +30,19 @@ How to reach me csw93083@chungbuk.ac.kr
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />]() &nbsp;&nbsp;
 [<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>](https://getbootstrap.com/) &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://ko.reactjs.org/) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />](https://ko.redux.js.org/) &nbsp;&nbsp;
 
 ### Software & Development tool
 
-[<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />](https://spring.io/) &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>](https://www.djangoproject.com/) &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/) &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>]() &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>](https://git-scm.com/) &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/) &nbsp;&nbsp;
 
-
+</div>
 <!--
 **kkahlua/kkahlua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
