@@ -12,7 +12,8 @@ How to reach me csw93083@naver.com | csw93083@chungbuk.ac.kr
 
 #### 안녕하세요 프론트엔드 개발자 최성운입니다.
 
-● 강 주변 위험사고 검출을 위한 지능형 CCTV기술 : https://github.com/k-CCTV
+
+● 강 주변 위험사고 검출을 위한 지능형 CCTV기술 : https://github.com/k-CCTV  
 ● 특색 있는 익명성을 보장하는 sns 웹사이트 : https://github.com/CBNU-2022-Winter-1Team
 
 </div>
